@@ -1,0 +1,19 @@
+{
+  "name": "console-canvas",
+  "bin": {
+    "console-canvas": "index.js"
+  },
+  "version": "0.0.1",
+  "description": "Console-Canvas allows you to use HTML5 Canvas commands to draw in your terminal/console. Outputs color ASCII characters instead of pixels.",
+  "main": "index.js",
+  "author": "Alistair MacDonald <al@pwn.io>",
+  "email": "al@pwn.io",
+  "license": "MIT",
+  "dependencies": {
+    "ansi": "^0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/f1lt3r/console-canvas.git"
+  }
+}
